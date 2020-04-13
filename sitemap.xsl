@@ -92,7 +92,7 @@
           <th>URL location</th>
           <th>Last modification date</th>
           <th>Change frequency</th>
-          <th>Priority</th>
+          <th>Prioridade</th>
         </tr>
       </thead>
       <tbody>
